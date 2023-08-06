@@ -5,6 +5,12 @@
 #### _**Tech Stack:**_ Python, Pandas, Numpy, Matplotlib, Folium, scikit-learn, K-mean clustering, Linear Regression, Random Forest, XGBoost 
 #### Training Dataset Link - https://www.kaggle.com/code/ajaysh/taxi-demand-prediction/input?select=yellow_tripdata_2015-01.csv
 #### Testing Dataset link - https://www.kaggle.com/code/ajaysh/taxi-demand-prediction/input?select=yellow_tripdata_2016-01.csv
+
+# WorkFlow of the Project
+<img width="127" alt="image" src="https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/ea0545da-6dc6-493a-a25f-035c922b8136">
+<img width="149" alt="image" src="https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/c26694b5-c583-4d0a-aa9c-40ed1cce87e6">
+
+
 ### 30 clusters formed over New York city to make demand prediction
 ![image](https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/14ec5aab-bbae-4d87-a2a9-a46dd5de1132)
 
