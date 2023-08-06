@@ -7,9 +7,10 @@
 #### Testing Dataset link - https://www.kaggle.com/code/ajaysh/taxi-demand-prediction/input?select=yellow_tripdata_2016-01.csv
 
 # WorkFlow of the Project
-![image](https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/8e9a9e18-a42c-4dd0-b7a9-bf1a725da7ed)
+![image](https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/2690bb49-b67a-4966-8bed-e0f3775f6268)
 
-![image](https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/ed3e986f-691b-40d8-b2bf-53aabf876901)
+
+![image](https://github.com/tanyagupta2004/Taxi-Demand-Prediction/assets/82495563/272d1eb4-d9b2-4e6c-9463-d1297e43286c)
 
 
 
